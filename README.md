@@ -12,6 +12,11 @@ Hello1 I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a p
 
 1) I have changed each event into cards so that it will be easier for the users to associate the details pertaining to that event because of the border bounding the card.
 
+<figure></figure>
  <img width="1038" alt="image" caption ="New webpage" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/869ab526-e59a-46c0-a84d-99a57273571d">
+ <figcaption>New Page</figcaption>
+ </figure>
+
+ 
 
 
