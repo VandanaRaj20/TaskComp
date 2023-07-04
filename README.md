@@ -17,14 +17,35 @@ Hello1 I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a p
  <figcaption>New Page</figcaption>
  </figure>
 
+
  2) I have used Bootstrap ver.5 to make the website responsive.
     
  <img width="499" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/54fc98c6-ec9a-4427-a938-49cf31e5c771">
+
+
 
  3) In the existing website, the buttons were designed to be solid colours, along with the register button. In my Design, I wanted to bring the main focus to the register button. So for 'View Brochure', I gave an outline button and when hovered will turn solid.
 <img width="200" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/f1a761ac-34a8-48bf-aea0-027b971edfe1">
 
 <img width="200" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/da3bd804-8d10-4eab-96c8-cc1429d01c44">
+
+
+
+4) I made the dropdown menu icon visible so that users can navigate accordingly
+<img width="300" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/e5815aa9-ad82-4407-8ebf-73f5c621094d">
+
+
+
+5) I made the register button slightly bigger to draw attention and gave solid background colour, unlike the view brochure button. When hovered over the button, a small animation will take place.
+<img width="214" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/ba4fcd0e-fc94-4914-b13a-a42406c8cadf">
+
+
+
+6) When hovering over the cards, a soft shadow effect will take place to draw the focus on that particular card.
+![image](https://github.com/VandanaRaj20/TaskComp/assets/78068259/f9f48717-47d2-4870-9eed-68d1bcc5b20f)
+
+ 
+
 
 
 
