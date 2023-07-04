@@ -55,6 +55,8 @@ Hello! I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a p
 
 **I hope this helps you understand the reasons behind my design. If I have to make any changes or difficulties in viewing the website, please do let me know.**
 
+**NOTE: The font and the actual colour code of this website may vary from the existing Website**
+
 Thank you!
 
 
