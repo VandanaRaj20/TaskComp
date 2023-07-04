@@ -42,7 +42,7 @@ Hello1 I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a p
 
 
 6) When hovering over the cards, a soft shadow effect will take place to draw the focus on that particular card.
-![image](https://github.com/VandanaRaj20/TaskComp/assets/78068259/f9f48717-47d2-4870-9eed-68d1bcc5b20f)
+<img width="500" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/f9f48717-47d2-4870-9eed-68d1bcc5b20f">
 
  
 
