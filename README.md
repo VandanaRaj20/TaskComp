@@ -8,7 +8,7 @@ Link to my webpage:  https://vandanaraj20.github.io/TaskComp/task/main.html
 
 **Position:** (As per email) If selected for the GA position, you'll be working to continuously improve the UI/UX design of our existing webpage and post new information as and when required, as well as helping to migrate the site content over the next academic year. 
 
-Hello1 I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a part of the Graduate assistantship selection process. This repository contains the code I have typed from scratch to design the webpage. I have primarily  used HTML, CSS and Bootstrap ver.5 for this task. I incorporated a few changes in the web design.
+Hello! I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a part of the Graduate assistantship selection process. This repository contains the code I have typed from scratch to design the webpage. I have primarily  used HTML, CSS and Bootstrap ver.5 for this task. I incorporated a few changes in the web design.
 
 **Languages used:** HTML, CSS, bootstrap ver.5
 
@@ -53,7 +53,7 @@ Hello1 I am Vandana Rajesh (NYU ID: N14720690). I have completed the task as a p
 7) For the "Coming Soon!" section, I gave the image an opacity of 40% to illustrate that this event is not yet activated. The same is applied to its button
 <img width="501" alt="image" src="https://github.com/VandanaRaj20/TaskComp/assets/78068259/d59d4fcf-ef09-4bfd-9bfa-fae639bd9ba0">
 
-I hope this helps you understand the reasons behind my design. If I have to make any changes or difficulties in viewing the website, please do let me know.
+**I hope this helps you understand the reasons behind my design. If I have to make any changes or difficulties in viewing the website, please do let me know.**
 
 Thank you!
 
